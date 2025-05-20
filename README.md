@@ -64,7 +64,7 @@ pip install pandas numpy matplotlib seaborn
 Zomato_Data_Analysis/
 │
 ├── Zomato_Data_Analysis.ipynb   # Main analysis notebook
-├── [Your Zomato dataset files]  # CSV or supporting data files
+├── zomato-data.csv #Dataset 
 ```
 
 ## Conclusion
